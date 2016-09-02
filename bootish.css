@@ -1,0 +1,8 @@
+/* css */
+
+
+#bootish-container > iframe{
+  border:none;
+  width: 200px;
+  height: 40px;
+}
